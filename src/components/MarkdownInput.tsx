@@ -1,8 +1,8 @@
 import styled from "styled-components";
 const InputContainer = styled.div`
-  width: 50%;
+  width: 100%;
   height: calc(100vh - 50.5px);
-  padding: 20px;
+  /* padding: 20px; */
   box-sizing: border-box;
 `;
 const StyledTextArea = styled.textarea`
@@ -12,7 +12,7 @@ const StyledTextArea = styled.textarea`
   border: 2px black;
   padding: 10px;
   box-sizing: border-box;
-  background-color: #e0d7ff;
+  background-color: #E3DBFF;
   font-size: 16px;
   outline: none;
 `;
